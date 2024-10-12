@@ -2,7 +2,7 @@
 
 - 🔭 Disponível para trabalho 
 - 🌱 Faculdade de Análise e Desenvolvimento de Sistema
-- 📚 Estudando Python
+- 📚 Estudando JavaScript
 - 📫 E-mail profissional gouveia.amanda01@gmail.com
 - 😄 Pronouns: ela/dela
   
